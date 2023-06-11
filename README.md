@@ -1,7 +1,7 @@
 
 # COVID Vaccine Sentiment Analysis
 
-This project focuses on performing sentiment analysis on COVID vaccine-related data by  The dataset used for this analysis is sourced from Kaggle.
+This project focuses on performing sentiment analysis on COVID vaccine-related data by collecting tweets. The dataset used for this analysis is sourced from Kaggle.
 
 ## Preprocessing Steps
 
